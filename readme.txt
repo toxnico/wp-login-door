@@ -1,9 +1,9 @@
-=== Plugin Name ===
+=== WP Login Door ===
 Contributors: toxnico
-Donate link: http://example.com/
+Website: http://dirtymarmotte.net
+Donate link: contact me at nico ~[at]~ dirtymarmotte.net
 Tags: security, login
-Requires at least: 3.0.1
-Tested up to: 3.4
+Requires at least: 4.0.0
 Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -42,25 +42,3 @@ Then login as usual, reactivate the plugin, and check your word pair.
 = Is that all ? =
 
 Yes!
-
-== Screenshots ==
-
-1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
-the /assets directory or the directory that contains the stable readme.txt (tags or trunk). Screenshots in the /assets
-directory take precedence. For example, `/assets/screenshot-1.png` would win over `/tags/4.3/screenshot-1.png`
-(or jpg, jpeg, gif).
-2. This is the second screen shot
-
-== Changelog ==
-
-= 1.0 =
-* First release!
-
-
-
-///////////////////////////
-Code Canyon
-///////////////////////////
-
-
-I've been developing software for 15 years in several domains and languages, and as a Wordpress blog owner, I have some needs and I develop my own plugins. I discovered CodeCanyon recently and decided to package my hand crafted plugins correctly to distribute them!

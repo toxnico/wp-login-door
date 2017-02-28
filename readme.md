@@ -1,3 +1,8 @@
+[IMPORTANT]  
+This github repository is not up-to date, because Wordpress official repository is SVN-based and I'm a very lazy boy.  
+So please use this source instead: https://wordpress.org/plugins/wp-login-door/  
+[/IMPORTANT]
+
 ## WP Login Door
 Contributors: toxnico  
 Website: http://dirtymarmotte.net  
